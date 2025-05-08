@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+jinja2
+sqlalchemy
+passlib[bcrypt]
+opencv-python
+xgboost
+scikit-learn
+numpy
