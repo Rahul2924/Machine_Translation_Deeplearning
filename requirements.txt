@@ -8,3 +8,4 @@ opencv-python
 xgboost
 scikit-learn
 numpy
+pandas
